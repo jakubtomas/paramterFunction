@@ -9,9 +9,9 @@ public class Main {
 
         Person person = new Person(1996);
 
-        int personAge = age.apply(person.getYearOfBirt(), 2021);
+        int personAge = age.apply(person.getYearOfBirt(), 2011);
 
-        System.out.println("Age of this person is " + personAge);
-        System.out.println("Age of this person is " + personAge);
+        System.out.println("Age of  this person is " + personAge);
+        System.out.println("Age of this Person is " + personAge);
     }
 }
